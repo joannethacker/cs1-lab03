@@ -1,0 +1,17 @@
+{
+  "name": "Java Card Game Lab",
+  "image": "://microsoft.com",
+  "features": {
+    "ghcr.io/devcontainers/features/desktop-lite:1": {
+      "version": "latest"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack"
+      ]
+    }
+  },
+  "postCreateCommand": "echo 'Build environment ready! Use VS Code Java tools to run.'"
+}
