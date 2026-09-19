@@ -12,6 +12,5 @@
         "vscjava.vscode-java-pack"
       ]
     }
-  },
-  "postCreateCommand": "echo 'Build environment ready! Use VS Code Java tools to run.'"
+  }
 }
