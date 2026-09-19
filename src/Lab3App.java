@@ -13,7 +13,7 @@ public class Lab3App {
 
 	public static void main(String[] args)
 	{
-		GUI theWindow = new Deck();
+		Display theCards = new Deck();
 		Card theDeck = new Deck();
 		Card card1;
 		theDeck.shuffleDeck();
