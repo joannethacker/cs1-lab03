@@ -2,9 +2,9 @@
 import cardgames.*;
 
 /**
- * <p>Title: </p>
+ * Title: 
  * 
- * <p>Description: </p>
+ * Description: 
  * 
  * @author your names here
  */
